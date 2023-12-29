@@ -1,7 +1,10 @@
-## Hi My name Thaleson!
 
+
+## 🚀 Bem-vindo ao meu repositório! 🚀
+## Hi My name Thaleson!
+👋 Sobre Mim:Sou Thaleson silva
 - 🔭 Em busca de uma oportunidade na área de desenvolvimento de sistemas, redes, pentest, e além do mais, com interesse em aprender coisas novas também!...
-- 🌱 Sou Desenvonvedor  Python focado em inteligencia artificial.
+- 🌱 Desenvolvedor Python focado em inteligência  artificial.
 - 🌱 visão computacional.
 ----------------------------------------------------------
 
