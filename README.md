@@ -3,12 +3,10 @@
 ## 🚀 Bem-vindo ao meu repositório! 🚀
 ## Hi My name Thaleson!
 👋 Sobre Mim:Sou Thaleson silva
-- 🔭 Em busca de uma oportunidade na área de desenvolvimento de sistemas, redes, pentest, e além do mais, com interesse em aprender coisas novas também!...
+- 🔭 Em busca de uma oportunidade na área de desenvolvimento de Inteligencia artificial e backend, e além do mais, com interesse em aprender coisas novas também!...
 - 🌱 Desenvolvedor Python focado em inteligência  artificial.
 - 🌱 visão computacional.
 ----------------------------------------------------------
-
-
 - 🔭 On the lookout for an opportunity in the field of system development, networks, pentesting, and moreover, keen on learning new things as well!
 - 🌱 Python developer with a focus on artificial intelligence.
 - 🌱 Computer vision enthusiast.
