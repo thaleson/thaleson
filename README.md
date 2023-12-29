@@ -7,9 +7,9 @@
 - 🌱 Desenvolvedor Python focado em inteligência  artificial.
 - 🌱 visão computacional.
 ----------------------------------------------------------
-- 🔭 On the lookout for an opportunity in the field of system development, networks, pentesting, and moreover, keen on learning new things as well!
-- 🌱 Python developer with a focus on artificial intelligence.
-- 🌱 Computer vision enthusiast.
+- 🔭 Looking for an opportunity in the area of ​​Artificial Intelligence and backend development, and what's more, interested in learning new things too!...
+- 🌱 Python developer focused on artificial intelligence.
+- 🌱 computer vision.
 
 
 <a href="https://github.com/thaleson">
