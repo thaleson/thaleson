@@ -1,7 +1,7 @@
-## Hi there!
+## Hi My name Thaleson!
 
 - 🔭 Em busca de uma oportunidade na área de desenvolvimento de sistemas, redes, pentest, e além do mais, com interesse em aprender coisas novas também!...
-- 🌱 Desenvonvedor  Python focado em inteligencia artificial.
+- 🌱 Sou Desenvonvedor  Python focado em inteligencia artificial.
 - 🌱 visão computacional.
 ----------------------------------------------------------
 
