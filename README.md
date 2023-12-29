@@ -36,5 +36,5 @@
   
 </div>
 
-<img align="right" alt="Erik-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/94ad084d17841c2e681b6311e3dde7d5.gif">
+<img align="center" alt="thaleson-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/94ad084d17841c2e681b6311e3dde7d5.gif">
   
