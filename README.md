@@ -3,11 +3,9 @@
 ## 🚀 Bem-vindo ao meu repositório! 🚀
 ## Hi My name Thaleson!
 👋 Sobre Mim:Sou Thaleson silva
-- 🔭 Em busca de uma oportunidade na área de desenvolvimento de Inteligencia artificial e backend, e além do mais, com interesse em aprender coisas novas também!...
 - 🌱 Desenvolvedor Python focado em inteligência  artificial.
 - 🌱 visão computacional.
 ----------------------------------------------------------
-- 🔭 Looking for an opportunity in the area of ​​Artificial Intelligence and backend development, and what's more, interested in learning new things too!...
 - 🌱 Python developer focused on artificial intelligence.
 - 🌱 computer vision.
 
@@ -30,5 +28,5 @@
   
 </div>
 
-<img align="center" alt="thaleson-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/94ad084d17841c2e681b6311e3dde7d5.gif">
+
   
