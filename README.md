@@ -1,14 +1,5 @@
 
 
-## 🚀 Bem-vindo ao meu repositório! 🚀
-## Hi My name Thaleson!
-👋 Sobre Mim:Sou Thaleson silva
-- 🌱 Desenvolvedor Python focado em inteligência  artificial.
-- 🌱 visão computacional.
-----------------------------------------------------------
-- 🌱 Python developer focused on artificial intelligence.
-- 🌱 computer vision.
-
 
 <a href="https://github.com/thaleson">
 <div>
